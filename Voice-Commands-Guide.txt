@@ -1,0 +1,28 @@
+Voice Commands:
+
+
+- Add Address --> For Inserting Address In The html Doc That You Create Using The App
+- Add Attribute --> For Inserting Attribute In The html Doc That You Create Using The App
+- Add Audio --> For Inserting Audios In The html Doc That You Create Using The App
+- Add Blockquote --> For Creating Block Quotes In The html Doc That You Create Using The App
+- Add BR --> For Breaking Paragraph Lines In The html Doc That You Create Using The App
+- Add Button --> For Creating Buttons In The html Doc That You Create Using The App
+- Add Comments --> For Creating Comments In The html Doc That You Create Using The App
+- Add Heading --> For Creating Head In The html Doc That You Create Using The App
+- Add HR --> For Creating Lines In The html Doc That You Create Using The App
+- Add Iframe --> For Creating Frames In The html Doc That You Create Using The App
+- Add Images --. For Inserting Images Into The html Doc That You Create Using The App
+- Add Lists --> For Inserting List Into The html Doc That You Create Using The App
+- Add Paragraph --. For Inputing Text(A Paragraph Text) Into The html Doc That You Create Using The App
+- Add Video --> For Inserting Video Into The html Doc That You Create Using The App
+- exit --> Stops And Closes The App(alt + f4)
+- time --> Tells You The Current Time
+- Who Are You? --> The AI Introduses Him Self
+- Why Are You Helping Me --> Tells You The Reason
+- how old are you? --> Tells You The AI's Age till That date
+- Open Notepad --> Opens The Notepad
+- open browser --> opens the browser
+
+** A Tip Guide **
+=> Memorise The Command And Close This Note Pad File For The App To Work Fine.
+=> Make Sure You Are Connected To Internet For The App To Runn Well.
